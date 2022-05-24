@@ -6,7 +6,7 @@ package sched_test
 
 import (
 	"fmt"
-	"grun/sched"
+	"github.com/mb0/sched"
 	"sync/atomic"
 	"time"
 )
